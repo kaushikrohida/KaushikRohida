@@ -14,29 +14,25 @@ I'm a **Results-driven Data Professional** with over **four years of experience*
 ## 📂 Projects
 Here are some of the projects I've worked on:
 
-### 🎮 [**E2E-Project-Udemy-V2**](https://github.com/kaushikrohida/e2e-project-udemy-v2)
-- Implemented an ETL pipeline using **Snowflake Snowpark** and **Pandas** for seamless data ingestion and transformation.
-- Automated data processing, improving data quality and reporting efficiency.
-
-### 📊 [**COVID-19-Reporting-Azure**](https://github.com/kaushikrohida/COVID-19-Reporting-Azure)
-- Built a scalable data pipeline using **Azure Data Factory** and **Synapse** to aggregate COVID-19 data.
-- Designed data models and reporting dashboards to track and analyze pandemic trends.
-
-### 🚀 [**Azure-Data-Factory-ETL-Pipeline**](https://github.com/kaushikrohida/Azure-Data-Factory-ETL-Pipeline)
-- Developed an end-to-end ETL pipeline on **Azure Data Factory** with automated data validation.
-- Monitored and optimized pipeline performance, reducing data processing time by 30%.
-
-### 📈 [**Google-Cloud-Platform-ETL-Data-Pipeline**](https://github.com/kaushikrohida/Google-Cloud-Platform-ETL-Data-Pipeline)
-- Created a fully automated ETL workflow using **BigQuery**, **Dataflow**, and **Mage AI**.
-- Enhanced data processing speed and delivered real-time insights through Looker dashboards.
-
-### 📦 [**Stadium-Game-Database-System**](https://github.com/kaushikrohida/Stadium-Game-Database-System)
-- Designed and implemented a **sports game database** on Azure, integrating **Azure Data Factory, Data Lake Gen 2, and Databricks**.
-- Improved data retrieval efficiency by 25% and ensured data consistency.
-
-### ⚡️ [**SQL-Data-Warehouse-Project**](https://github.com/kaushikrohida/SQL-Data-Warehouse-Project)
+### 🏢 [**SQL Data Warehouse Project**](https://github.com/kaushikrohida/sql-data-warehouse-project)
 - Developed a **data warehouse** with SQL-based ETL pipelines to support large-scale data analysis.
 - Improved query performance and ensured seamless data ingestion and transformation.
+
+### 🌫️ [**Air Quality Index Monitoring Pipeline**](https://github.com/kaushikrohida/Air-Quality-Index-Monitoring-Pipeline---Snowflake---Streamlit---Github-Action--CI-CD-)
+- Built a **real-time air quality monitoring system** using Snowflake and Streamlit.
+- Implemented CI/CD pipelines with GitHub Actions, enabling automated deployment and monitoring.
+
+### 🚗 [**Uber Data Engineering Project with Google Cloud Platform**](https://github.com/kaushikrohida/Uber-Data-Engineering-Project-with-Google-Cloud-Platform)
+- Created a **data engineering pipeline** using GCP services like BigQuery, Dataflow, and Cloud Storage.
+- Processed and analyzed Uber trip data to derive actionable insights and improve operational efficiency.
+
+### 🎵 [**Music Genre Classification using PCA and Logistic Regression**](https://github.com/kaushikrohida/Music-Genre-Classification--PCA-and-Logistic-Regression-)
+- Implemented **Principal Component Analysis (PCA)** and logistic regression models to classify music genres.
+- Achieved high accuracy by optimizing feature selection and model performance.
+
+### 🏦 [**Bank Customer Classification**](https://github.com/kaushikrohida/Bank-Customer-Classification)
+- Developed a **customer classification model** to predict potential defaulters using Python and ML algorithms.
+- Enhanced prediction accuracy by using feature engineering and model optimization techniques.
 
 ---
 
