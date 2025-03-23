@@ -3,8 +3,6 @@
 ## About Me
 I'm a **Results-driven Data Professional** with over **four years of experience** in data analytics, SQL, Python, Tableau, and cloud technologies. I specialize in **designing ETL pipelines, building data models, and automating workflows** to improve efficiency and enhance decision-making processes. I thrive in leading cross-functional projects, collaborating with business stakeholders, and delivering data-driven insights that drive measurable improvements.
 
----
-
 ## Projects
 Here are some of the projects I've worked on:
 
@@ -41,13 +39,12 @@ Here are some of the projects I've worked on:
 ## Links
 - **GitHub:** [Explore my repositories](https://github.com/kaushikrohida?tab=repositories)
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/kaushikrohida/)
-- **Tableau Public:** [View my dashboards](https://public.tableau.com/app/profile/kaushikrohida)
+- **Tableau Public:** [View my dashboards]([https://public.tableau.com/app/profile/kaushikrohida]
 
 ---
 
 ## Let's Connect!
 I'm always eager to collaborate on innovative projects and explore cutting-edge technologies. Feel free to reach out to discuss potential collaborations or share ideas!
 
-**Email:** rohidakaushik@gmail.com  
-**Portfolio:** [GitHub Portfolio](https://github.com/kaushikrohida?tab=repositories)
+**Email:** rohidakaushik@gmail.com
 
