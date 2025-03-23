@@ -3,6 +3,7 @@
 ## About Me
 I'm a **Results-driven Data Professional** with over **four years of experience** in data analytics, SQL, Python, Tableau, and cloud technologies. I specialize in **designing ETL pipelines, building data models, and automating workflows** to improve efficiency and enhance decision-making processes. I thrive in leading cross-functional projects, collaborating with business stakeholders, and delivering data-driven insights that drive measurable improvements.
 
+
 ## Projects
 Here are some of the projects I've worked on:
 
@@ -26,7 +27,6 @@ Here are some of the projects I've worked on:
 - Developed a **customer classification model** to predict potential defaulters using Python and ML algorithms.
 - Enhanced prediction accuracy by using feature engineering and model optimization techniques.
 
----
 
 ## Key Skills
 - **Databases & BI:** SQL (MySQL, Vertica, PostgreSQL), Snowflake, Databricks (DBT), Tableau, Power BI, Alteryx, Looker, Power Automate, Hive
@@ -34,14 +34,12 @@ Here are some of the projects I've worked on:
 - **Software & Cloud Platforms:** S/4 HANA, AWS (S3, Redshift), Azure, GCP, Apache (Airflow, Spark), GitHub Actions (CI/CD), Rest APIs, JIRA, Confluence
 - **Project & Process Management:** Stakeholder Management, Strategic Initiatives, Agile Methodology, Business Acumen, Process Optimization, Problem Solving
 
----
 
 ## Links
 - **GitHub:** [Explore my repositories](https://github.com/kaushikrohida?tab=repositories)
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/kaushikrohida/)
 - **Tableau Public:** [View my dashboards](https://public.tableau.com/app/profile/kaushik.rohida6402/vizzes)
 
----
 
 ## Let's Connect!
 I'm always eager to collaborate on innovative projects and explore cutting-edge technologies. Feel free to reach out to discuss potential collaborations or share ideas!
