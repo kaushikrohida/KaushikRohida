@@ -1,7 +1,7 @@
 # Hi, I'm Kaushik Rohida! 👋
 
 ## About Me
-I'm a **Results-driven Data Professional** with over **four years of experience** in data analytics, SQL, Python, Tableau, and cloud technologies. I specialize in **designing ETL pipelines, building data models, and automating workflows** to improve efficiency and enhance decision-making processes. I thrive in leading cross-functional projects, collaborating with business stakeholders, and delivering data-driven insights that drive measurable improvements.
+I'm a **Results-driven Data Professional** with over **five years of experience** in data analytics, SQL, Python, Tableau, and cloud technologies. I specialize in **designing ETL pipelines, building data models, and automating workflows** to improve efficiency and enhance decision-making processes. I thrive in leading cross-functional projects, collaborating with business stakeholders, and delivering data-driven insights that drive measurable improvements.
 
 
 ## Projects
