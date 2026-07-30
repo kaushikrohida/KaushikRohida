@@ -1,7 +1,7 @@
 # Hi, I'm Kaushik Rohida! 👋
 
 ## About Me
-I'm a **Results-driven Data Professional** with over **five years of experience** in data analytics, SQL, Python, Tableau, and cloud technologies. I specialize in **designing ETL pipelines, building data models, and automating workflows** to improve efficiency and enhance decision-making processes. I thrive in leading cross-functional projects, collaborating with business stakeholders, and delivering data-driven insights that drive measurable improvements.
+I'm a Senior Analytics Engineer and BI Leader with 6+ years of experience architecting scalable data pipelines, semantic models, and AI-powered analytics frameworks across telecom, automotive, and healthcare industries. I specialize in end-to-end analytics engineering — from Snowflake-based ETL pipelines and AWS S3 staging to Tableau Pulse AI frameworks and Snowflake Cortex Analyst + MCP integrations that enable natural language querying of enterprise KPIs. My work spans SQL, Python, Airflow, and cloud platforms (AWS, GCP, Azure), with a strong focus on building governed, production-grade systems that synthesize complex data into actionable insights for executive decision-making. I'm passionate about pushing the boundaries of AI-powered analytics and building self-service data platforms that drive real business outcomes.
 
 
 ## Projects
