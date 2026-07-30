@@ -30,7 +30,7 @@ Here are some of the projects I've worked on:
 ## Links
 - **GitHub:** [Explore my repositories](https://github.com/kaushikrohida?tab=repositories)
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/kaushikrohida/)
-- **Tableau Public:** [View my dashboards](https://public.tableau.com/app/profile/kaushik.rohida6402/vizzes)
+- **Tableau Public:** [View my portfolio](https://public.tableau.com/app/profile/kaushik.rohida6402/vizzes)
 
 ## GitHub Stats
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; width: 75%">
