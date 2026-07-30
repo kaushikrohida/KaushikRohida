@@ -31,11 +31,6 @@ Here are some of the projects I've worked on:
 - Developed a **customer classification model** to predict potential defaulters using Python and ML algorithms.
 - Enhanced prediction accuracy by using feature engineering and model optimization techniques.
 
-## Links
-- **GitHub:** [Explore my repositories](https://github.com/kaushikrohida?tab=repositories)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/kaushikrohida/)
-- **Tableau Public:** [View my portfolio](https://public.tableau.com/app/profile/kaushik.rohida6402/vizzes)
-
 ## GitHub Stats
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; width: 75%">
   <div style="width: 38%; display: inline-block; margin: 5px;">
@@ -49,9 +44,8 @@ Here are some of the projects I've worked on:
   </div>
 </div>
 
-
 ## Let's Connect!
 I'm always eager to collaborate on innovative projects and explore cutting-edge technologies. Feel free to reach out to discuss potential collaborations or share ideas!
 
-**Email:** rohidakaushik@gmail.com
+**Email:** rohidakaushik01@gmail.com
 
