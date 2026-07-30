@@ -1,5 +1,9 @@
 # Hi, I'm Kaushik Rohida! 👋
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushikrohida/)
+[![Tableau](https://img.shields.io/badge/Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/kaushik.rohida6402/vizzes)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohidakaushik@gmail.com)
+
 ## About Me
 I'm a Senior Analytics Engineer and BI Leader with 6+ years of experience architecting scalable data pipelines, semantic models, and AI-powered analytics frameworks across different industries. I specialize in end-to-end analytics engineering — from Snowflake-based ETL pipelines and AWS S3 staging to Tableau Pulse AI frameworks and Snowflake Cortex Analyst + MCP integrations that enable natural language querying of enterprise KPIs. My work spans SQL, Python, Airflow, and cloud platforms (AWS, GCP, Azure), with a strong focus on building governed, production-grade systems that synthesize complex data into actionable insights for executive decision-making. I'm passionate about pushing the boundaries of AI-powered analytics and building self-service data platforms that drive real business outcomes.
 
